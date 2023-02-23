@@ -1,6 +1,1 @@
--- \\ If the whitelist API is down make sure to refresh before adding a whitelist! // --
-ADMIN = {
-	[2663324452],
-	[3842385768],
-}
-return ADMIN
+{"2663324452",""}
